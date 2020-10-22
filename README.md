@@ -1,3 +1,3 @@
 # Introduction-to-Machine-Learning
 
-XD
+Chapter 1 Gradient Descent
