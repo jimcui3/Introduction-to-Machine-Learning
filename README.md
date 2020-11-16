@@ -1,8 +1,8 @@
 # Introduction-to-Machine-Learning
 
-第一章 梯度下降法
+[第一章 梯度下降法](https://github.com/jimcui3/Introduction-to-Machine-Learning/blob/main/1%20%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.ipynb)
 
-Chapter 1 Gradient Descent
+[Chapter 1 Gradient Descent](https://github.com/jimcui3/Introduction-to-Machine-Learning/blob/main/1%20Gradient%20Descent.ipynb)
 
 
 第二章 牛顿迭代法（待补全）
