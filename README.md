@@ -1,4 +1,4 @@
-# Introduction-to-Machine-Learning
+# Introduction to Machine Learning
 
 [第一章 梯度下降法](https://github.com/jimcui3/Introduction-to-Machine-Learning/blob/main/1%20%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95.ipynb)
 
@@ -21,7 +21,7 @@
 
 * 4.1 决策树简介与ID3算法（待补全）
 
-* 4.2 C4.5算法和PEP后剪枝, CART算法和CCP后剪枝（待补全）
+* 4.2 C4.5算法和PEP后剪枝， CART算法和CCP后剪枝（待补全）
 
 Chapter 4 Decision Trees (Under Construction)
 
