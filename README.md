@@ -25,6 +25,6 @@
 
 Chapter 4 Decision Trees (Under Construction)
 
-* 4.1 Introduction, ID3 Algorithm (Under Construction)
+* [4.1 Introduction, ID3 Algorithm](https://github.com/jimcui3/Introduction-to-Machine-Learning/blob/main/4.1%20Decision%20Trees(1)%20-%20Introduction%2C%20ID3%20Algorithm.ipynb)
 
 * 4.2 C4.5 and PEP Post-prunning, CART and CCP Post-prunning (Under Construction)
