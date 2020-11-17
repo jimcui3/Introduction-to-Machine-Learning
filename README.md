@@ -23,8 +23,12 @@
 
 * 4.2 C4.5算法和PEP后剪枝， CART算法和CCP后剪枝（待补全）
 
-Chapter 4 Decision Trees (Under Construction)
+Chapter 4 Decision Trees
 
 * [4.1 Introduction, ID3 Algorithm](https://github.com/jimcui3/Introduction-to-Machine-Learning/blob/main/4.1%20Decision%20Trees(1)%20-%20Introduction%2C%20ID3%20Algorithm.ipynb)
 
 * 4.2 C4.5 and PEP Post-prunning, CART and CCP Post-prunning (Under Construction)
+
+第五章 贝叶斯方法（待补全）
+
+Chapter 5 Bayesian Methods (Under Construction)
