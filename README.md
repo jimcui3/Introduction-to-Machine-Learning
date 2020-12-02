@@ -29,6 +29,40 @@ Chapter 4 Decision Trees
 
 * 4.2 C4.5 and PEP Post-prunning, CART and CCP Post-prunning (Under Construction)
 
+------ 目前有5个项目需要我进行研究或结项，本系列教程暂时暂停更新 ------
+------ There are currently 5 projects that I need to research or conclude, so this tutorial is temporarily on hold! ------
+
 第五章 贝叶斯方法（待补全）
 
 Chapter 5 Bayesian Methods (Under Construction)
+
+第六章 支持向量机（待补全）
+
+Chapter 6 Supporting Vector Machines (Under Construction)
+
+第七章 集成学习（待补全）
+
+Chapter 7 Ensemble Learning (Under Construction)
+
+第八章 主成分分析（待补全）
+
+Chapter 8 Principle Component Analysis (Under Construction)
+
+第九章 聚类算法（待补全）
+
+Chapter 9 Clustering (Under Construction)
+
+第十章 稀疏字典学习（待补全）
+
+Chapter 10 Sparse Dictionary Learning (Under Construction)
+
+第十一章 强化学习（待补全）
+
+Chapter 11 Reinforcement Learning (Under Construction)
+
+第十二章 深度学习（待补全）
+
+Chapter 12 Deep Learning (Under Construction)
+
+------ 预计在我研究生入学前（约2021年8月）全部写完 ------
+------ I expect to have it all written before I enroll in graduate school (approximately August 2021). ------
