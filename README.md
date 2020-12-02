@@ -30,6 +30,7 @@ Chapter 4 Decision Trees
 * 4.2 C4.5 and PEP Post-prunning, CART and CCP Post-prunning (Under Construction)
 
 ------ 目前有5个项目需要我进行研究或结项，本系列教程暂时暂停更新 ------
+
 ------ There are currently 5 projects that I need to research or conclude, so this tutorial is temporarily on hold! ------
 
 第五章 贝叶斯方法（待补全）
@@ -65,4 +66,5 @@ Chapter 11 Reinforcement Learning (Under Construction)
 Chapter 12 Deep Learning (Under Construction)
 
 ------ 预计在我研究生入学前（约2021年8月）全部写完 ------
+
 ------ I expect to have it all written before I enroll in graduate school (approximately August 2021). ------
