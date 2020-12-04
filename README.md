@@ -39,7 +39,7 @@ Chapter 5 Bayesian Methods (Under Construction)
 
 第六章 支持向量机（待补全）
 
-Chapter 6 Supporting Vector Machines (Under Construction)
+Chapter 6 Support Vector Machines (Under Construction)
 
 第七章 集成学习（待补全）
 
