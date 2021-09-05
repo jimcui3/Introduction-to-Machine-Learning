@@ -64,7 +64,3 @@ Chapter 11 Reinforcement Learning (Under Construction)
 第十二章 深度学习（待补全）
 
 Chapter 12 Deep Learning (Under Construction)
-
------- 预计在我研究生入学前（约2021年8月）全部写完 ------
-
------- I expect to have it all written before I enroll in graduate school (approximately August 2021). ------
